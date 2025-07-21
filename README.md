@@ -36,7 +36,7 @@ Each folder includes computations, examples, and logic breakdowns of a machine l
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/jcobsntos/machine-learning-projects.git
+   git clone https://github.com/jcobsntos/machine-learning-algorithms.git
 
 
 ## 🤝 Contributing
